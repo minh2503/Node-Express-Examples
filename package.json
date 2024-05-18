@@ -1,0 +1,25 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node Express Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/minh25031/Node-Express-Examples.git"
+  },
+  "author": "Minh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minh25031/Node-Express-Examples/issues"
+  },
+  "homepage": "https://github.com/minh25031/Node-Express-Examples#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
